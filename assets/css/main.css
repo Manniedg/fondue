@@ -1,8 +1,7 @@
 body {
-    background: url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467?dpr=2&fit=crop&fm=jpg&h=775&q=50&w=1450);
+    background: url(https://source.unsplash.com/hoMT3EDGH3g/1450x775);
     background-size: cover;
-    background-position: center;
-    font-family: 'Lato', sans-serif;
+    background-position: center; 
 }
 
 body,
